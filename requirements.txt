@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+asyncpg
+redis
+aiohttp
+aiofiles
+python-telegram-bot
+aiosmptlib
